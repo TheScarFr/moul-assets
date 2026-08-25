@@ -248,7 +248,7 @@
     "xYeeshaPageAlphaSketchLushRelto.png",
     "xYeeshaPageAlphaSketchStorm.png",
     {
-      "name": "xlinkpanelahnnonaytemple*1#0.hsm",
+      "name": "xlinkpanelahnonaytemple*1#0.hsm",
       "color": "xLinkPanelAhnonayTemple.jpg",
       "alpha": "xLinkPanelAlpha.png"
     },
@@ -393,7 +393,11 @@
     "xLinkPanelLibraryCourtyard.png",
     "xLinkPanelPalaceAlcove.png",
     "xLinkPanelGreatTreePubDefault.tga",
-    "xLinkPanelGoMePubNew.tga",
+    {
+      "name": "xlinkpanelgomepubnew*1#0.hsm",
+      "color": "xLinkPanelGoMePubNew.tga",
+      "alpha": "xLinkPanelAlpha.png"
+    },
     "xLinkPanelGuildPubWriters.tga",
     "xLinkPanelGuildPubCartographers.tga",
     "xLinkPanelGuildPubGreeters.tga",
