@@ -1083,6 +1083,9 @@ Wollen Sie mitspielen?</translation>
 			</element>
 			<element name="NewClothing">
 			</element>
+			<element name="NewClothingConfirm">
+				<translation language="German">Möchten Sie dieses Kleidungsstück direkt anziehen? Falls nicht, wird es nur Ihrem Kleiderschrank hinzugefügt.</translation>
+			</element>
 			<element name="NexusLinkAdded">
 				<translation language="German">Ein link wurde zu ihrer KI zugeführt.</translation>
 			</element>

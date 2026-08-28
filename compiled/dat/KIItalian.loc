@@ -1011,6 +1011,8 @@ Vuoi giocare?</translation>
 			</element>
 			<element name="NewClothing">
 			</element>
+			<element name="NewClothingConfirm">
+			</element>
 			<element name="NexusLinkAdded">
 			</element>
 			<element name="OfferLinkTo">
