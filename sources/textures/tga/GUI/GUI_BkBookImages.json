@@ -38,7 +38,11 @@
       "color": "xLinkPanelBevinDefault.jpg",
       "alpha": "xLinkPanelAlpha.png"
     },
-    "xLinkPanelBlackVoid.tga",
+    {
+      "name": "xlinkpanelblackvoid*1#0.hsm",
+      "color": "xLinkPanelBlackVoid.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
     {
       "name": "xlinkpanelcleftdesert*1#0.hsm",
       "color": "xLinkPanelCleftDesert.jpg",
@@ -197,7 +201,11 @@
     "xDniNINE.tga",
     "xDniTEN.tga",
     "xKIJournalCover.tga",
-    "xUruCreditsLegalLogos.jpg",
+    {
+      "name": "xurucreditslegallogos*1#0.hsm",
+      "color": "xUruCreditsLegalLogos.jpg",
+      "alpha": "xUruCreditsLegalLogosAlpha.jpg"
+    },
     "xSharperJournalCover.tga",
     "xKingAileshJournalCover_eng.tga",
     "xKingNaygenJournalCover_eng.tga",
@@ -230,8 +238,8 @@
     },
     "xKINexusFAQJournalCover.tga",
     "xYeeshaPageAlphaSketch13.tga",
-    "xYeeshaPageAlphaSketch14.tga",
-    "xYeeshaPageAlphaSketch15.tga",
+    "xYeeshaPageAlphaSketch14.png",
+    "xYeeshaPageAlphaSketch15.png",
     "xYeeshaPageAlphaSketchClock.png",
     "xYeeshaPageAlphaSketchFiremarbles.png",
     "xYeeshaPageAlphaSketchFireplace.png",
@@ -239,7 +247,11 @@
     "xYeeshaPageAlphaSketchLeaf.png",
     "xYeeshaPageAlphaSketchLushRelto.png",
     "xYeeshaPageAlphaSketchStorm.png",
-    "xLinkPanelAhnonayTemple.tga",
+    {
+      "name": "xlinkpanelahnonaytemple*1#0.hsm",
+      "color": "xLinkPanelAhnonayTemple.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
     {
       "name": "xlinkpanelercanadefault*1#0.hsm",
       "color": "xLinkPanelErcanaDefault.jpg",
@@ -260,22 +272,38 @@
     "xMeemenStoryJournalCover_eng.tga",
     "xMeertaStoryJournalCover_eng.tga",
     "xYeeshaPageAlphaSketchBirds.png",
-    "xLinkPanelConcertHallFoyer.png",
+    {
+      "name": "xlinkpanelconcerthallfoyer*1#0.hsm",
+      "color": "xLinkPanelConcertHallFoyer.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
     "xBookSharePage512.jpg",
-    "xBahroYeeshaShare.jpg",
+    {
+      "name": "xbahroyeeshashare*1#0.hsm",
+      "color": "xBahroYeeshaShare.jpg",
+      "alpha": "xBahroYeeshaShareAlpha.jpg"
+    },
     {
       "name": "xlinkpanelcleftdesertdisabled*1#0.hsm",
       "color": "xLinkPanelCleftDesertDisabled.jpg",
       "alpha": "xLinkPanelAlpha.png"
     },
-    "xLinkPanelGrtZero.tga",
+    {
+      "name": "xlinkpanelgrtzero*1#0.hsm",
+      "color": "xLinkPanelGrtZero.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
     {
       "name": "xlinkpanelgrtzerolinkrm*1#0.hsm",
       "color": "xLinkPanelGrtZeroLinkRm.jpg",
       "alpha": "xLinkPanelAlpha.png"
     },
     "xYeeshaPageAlphaSketchCalendar.png",
-    "xYeeshaBookStampVsquish.png",
+    {
+      "name": "xyeeshabookstampvsquish*1#0.hsm",
+      "color": "xYeeshaBookStampVsquish.png",
+      "alpha": "xYeeshaBookStampVsquishAlpha.jpg"
+    },
     {
       "name": "xbooksharepage512vsquish*1#0.hsm",
       "color": "xBookSharePage512vsquish.jpg",
@@ -348,14 +376,14 @@
       "color": "xNegilahnInfoJournalCover.tga"
     },
     {
-      "color": "xBookmarkDniZero.tga",
-      "$comment": "This matches what was previously in the PRP. NPOT is 'fine' here because this isn't a texture.",
-      "resize": [150, 134]
+      "name": "xbookmarkdnizero*1#0.hsm",
+      "color": "xBookmarkDniZero.jpg",
+      "alpha": "xBookmarkDniZeroAlpha.jpg"
     },
     {
-      "color": "xBookmarkDniZero2.tga",
-      "$comment": "This matches what was previously in the PRP. NPOT is 'fine' here because this isn't a texture.",
-      "resize": [134, 134]
+      "name": "xbookmarkdnizero2*1#0.hsm",
+      "color": "xBookmarkDniZero2.jpg",
+      "alpha": "xBookmarkDniZero2Alpha.jpg"
     },
     "xBookShareSymbolOnly.jpg",
     "xLinkPanelChisoPreniv.png",
@@ -365,7 +393,11 @@
     "xLinkPanelLibraryCourtyard.png",
     "xLinkPanelPalaceAlcove.png",
     "xLinkPanelGreatTreePubDefault.tga",
-    "xLinkPanelGoMePubNew.tga",
+    {
+      "name": "xlinkpanelgomepubnew*1#0.hsm",
+      "color": "xLinkPanelGoMePubNew.tga",
+      "alpha": "xLinkPanelAlpha.png"
+    },
     "xLinkPanelGuildPubWriters.tga",
     "xLinkPanelGuildPubCartographers.tga",
     "xLinkPanelGuildPubGreeters.tga",
