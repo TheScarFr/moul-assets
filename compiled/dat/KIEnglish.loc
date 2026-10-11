@@ -1190,6 +1190,9 @@ Would you like to play?</translation>
 			<element name="NewClothing">
 				<translation language="English">%1s added to your wardrobe.</translation>
 			</element>
+			<element name="NewClothingConfirm">
+				<translation language="English">Would you like to wear this item right now? If not, it will simply be added to your wardrobe.</translation>
+			</element>
 			<element name="NexusLinkAdded">
 				<translation language="English">A link has been added to your Nexus</translation>
 			</element>

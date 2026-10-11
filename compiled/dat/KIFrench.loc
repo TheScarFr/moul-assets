@@ -1081,6 +1081,8 @@ souhaitez-vous jouer ?</translation>
 			</element>
 			<element name="NewClothing">
 			</element>
+			<element name="NewClothingConfirm">
+			</element>
 			<element name="NexusLinkAdded">
 				<translation language="French">Un lien a été ajouté a votre Nexus</translation>
 			</element>
