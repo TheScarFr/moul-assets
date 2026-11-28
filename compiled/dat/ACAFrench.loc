@@ -194,6 +194,9 @@
 			<element name="PonyTail">
 				<translation language="French">Queue de cheval</translation>
 			</element>
+			<element name="PrideBracelet">
+				<translation language="French">Bracelet Pride</translation>
+			</element>
 			<element name="Pullover">
 				<translation language="French">Pull-over</translation>
 			</element>

@@ -194,6 +194,9 @@
 			<element name="PonyTail">
 				<translation language="English">Pony Tail</translation>
 			</element>
+			<element name="PrideBracelet">
+				<translation language="English">Pride Bracelet</translation>
+			</element>
 			<element name="Pullover">
 				<translation language="English">Pullover</translation>
 			</element>
